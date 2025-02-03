@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @gelsonganga1
-- 👀 I’m interested in learn programming.
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on project.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Olá, eu sou Gelson Ganga!
 
-<!---
-gelsonganga1/gelsonganga1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Desenvolvedor de Software | Front-End**
+
+
+
+---
+
+## 🌟 Sobre Mim
+
+Sou apaixonado por resolver problemas com código e criar soluções inteligentes. Meu foco é em **desenvolvimento fron-end**, 
+## 🛠️ Tech Stack
+
+
+
+---
+
+## 📊 Minhas Estatísticas 
+<div>
+  <a href="https://github.com/gelsonganga1">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonganga1&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gelsonganga1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+---
+
+## 🤝 Vamos Conectar!
+
+Gosta de discutir sobre tecnologia, compartilhar conhecimento ou colaborar em projetos open-source? Me mande uma mensagem, será um prazer trocar ideias! 😄
