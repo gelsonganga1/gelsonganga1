@@ -11,6 +11,10 @@
 Sou apaixonado por resolver problemas com código e criar soluções inteligentes. Meu foco é em **desenvolvimento fron-end**, 
 ## 🛠️ Tech Stack
 
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
 ---
