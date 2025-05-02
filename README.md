@@ -21,11 +21,9 @@ Sou apaixonado por resolver problemas com código e criar soluções inteligente
 ---
 
 ## 📊 Minhas Estatísticas 
-<div>
-  <a href="https://github.com/gelsonganga1">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonganga1&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gelsonganga1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonganga1&layout=compact&langs_count=7&theme=dracula)](https://github.com/gelsonganga1)
+[![Gelsonganga1's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelsonganga1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/gelsonganga1)
+
 ---
 
 ## 🤝 Vamos Conectar!
