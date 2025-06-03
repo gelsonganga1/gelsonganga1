@@ -47,7 +47,7 @@ Sou apaixonado por resolver problemas com código e criar soluções inteligente
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelsonganga1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonganga1&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-<img src="https://raw.githubusercontent.com/gelsonganga1/gelsonganga1/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
+
 
 ---
 ## 🤝 Vamos Conectar!
