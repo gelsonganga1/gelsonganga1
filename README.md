@@ -43,12 +43,13 @@ Sou apaixonado por resolver problemas com código e criar soluções inteligente
 
 ---
 
-## 📊 Minhas Estatísticas 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonganga1&layout=compact&langs_count=7&theme=dracula)](https://github.com/gelsonganga1)
-[![Gelsonganga1's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelsonganga1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/gelsonganga1)
+📊 GitHub Estatísticas & Atividade
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelsonganga1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsonganga1&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/gelsonganga1/gelsonganga1/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
 
 ---
-
 ## 🤝 Vamos Conectar!
 
 Gosta de discutir sobre tecnologia, compartilhar conhecimento ou colaborar em projetos open-source? Me mande uma mensagem, será um prazer trocar ideias! 😄
