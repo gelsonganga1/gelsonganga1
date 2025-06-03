@@ -9,15 +9,37 @@
 ## 🌟 Sobre Mim
 
 Sou apaixonado por resolver problemas com código e criar soluções inteligentes. Meu foco é em **desenvolvimento fron-end**, 
-## 🛠️ Tech Stack
 
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
-![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+##  Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+
+---
+
+## 🎨 Styling Technologies  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+
+---
+
+## ⚙️ Dev
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+---
+
+## Tools & Others  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+---
+
+## I started   
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+
 
 ---
 
