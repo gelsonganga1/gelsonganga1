@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou Gelson Ganga!
+# 👋 Hello, I am  Gelson Ganga!
 
-**Desenvolvedor de Software | Front-End**
+**Software Develop | Front-End**
 
 
 
 ---
 
-## 🌟 Sobre Mim
+## 🌟 About Me
 
 Sou apaixonado por resolver problemas com código e criar soluções inteligentes. Meu foco é em **desenvolvimento fron-end**, 
 
@@ -24,7 +24,7 @@ Sou apaixonado por resolver problemas com código e criar soluções inteligente
 
 ---
 
-## ⚙️ Dev
+## ⚙️ DevOps
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
